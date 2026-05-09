@@ -7,6 +7,7 @@
 <p align="center">
   <a href="https://arxiv.org/abs/2312.07398"><img src="https://img.shields.io/badge/论文-Arxiv-blue.svg?style=for-the-badge" alt="论文"></a>
   <a href="https://doi.org/10.1609/aaai.v38i17.29934"><img src="https://img.shields.io/badge/会议-AAAI%202024-orange.svg?style=for-the-badge" alt="AAAI 2024"></a>
+  <a href="https://huggingface.co/datasets/llmeval-fdu/LLMEval-1"><img src="https://img.shields.io/badge/数据集-HuggingFace-yellow.svg?style=for-the-badge" alt="数据集"></a>
   <a href="https://llmeval.com/"><img src="https://img.shields.io/badge/官网-llmeval.com-2ea44f.svg?style=for-the-badge" alt="官网"></a>
   <a href="https://github.com/llmeval"><img src="https://img.shields.io/badge/组织-LLMEval-green.svg?style=for-the-badge" alt="LLMEval"></a>
 </p>

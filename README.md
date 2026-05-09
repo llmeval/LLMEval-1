@@ -7,6 +7,7 @@
 <p align="center">
   <a href="https://arxiv.org/abs/2312.07398"><img src="https://img.shields.io/badge/Paper-Arxiv-blue.svg?style=for-the-badge" alt="Paper"></a>
   <a href="https://doi.org/10.1609/aaai.v38i17.29934"><img src="https://img.shields.io/badge/Venue-AAAI%202024-orange.svg?style=for-the-badge" alt="AAAI 2024"></a>
+  <a href="https://huggingface.co/datasets/llmeval-fdu/LLMEval-1"><img src="https://img.shields.io/badge/Dataset-HuggingFace-yellow.svg?style=for-the-badge" alt="Dataset"></a>
   <a href="https://llmeval.com/"><img src="https://img.shields.io/badge/Website-llmeval.com-2ea44f.svg?style=for-the-badge" alt="Website"></a>
   <a href="https://github.com/llmeval"><img src="https://img.shields.io/badge/Org-LLMEval-green.svg?style=for-the-badge" alt="LLMEval"></a>
 </p>
