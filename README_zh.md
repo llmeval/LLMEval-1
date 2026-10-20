@@ -55,7 +55,6 @@ LLMEval-1 是 [LLMEval](https://arxiv.org/abs/2312.07398)（AAAI 2024）论文�
 
 | 项目 | 简介 | 论文 | 代码 |
 |------|------|------|------|
-| **LLMEval-Logic**（arXiv 2026） | Z3 求解器验证的中文逻辑推理基准 | [arXiv](https://arxiv.org/abs/2605.19597) | [GitHub](https://github.com/llmeval/LLMEval-Logic) |
 | **LLMEval-Fair**（ACL 2026 主会） | 鲁棒公平评测，覆盖 13 个学科、20 万+ 题目 | [arXiv](https://arxiv.org/abs/2508.05452) | [GitHub](https://github.com/llmeval/LLMEval-Fair) |
 | **LLMEval-Med**（EMNLP 2025 Findings） | 经医生验证的临床大模型基准 | [arXiv](https://arxiv.org/abs/2506.04078) | [GitHub](https://github.com/llmeval/LLMEval-Med) |
 | **LLMEval-2**（AAAI 2024） | 第二期：专业领域评测 | [arXiv](https://arxiv.org/abs/2312.07398) | [GitHub](https://github.com/llmeval/LLMEval-2) |
